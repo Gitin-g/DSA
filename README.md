@@ -45,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gitin-g/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Gitin-g/DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gitin-g/DSA/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gitin-g/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
